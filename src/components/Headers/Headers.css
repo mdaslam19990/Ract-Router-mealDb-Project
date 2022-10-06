@@ -1,0 +1,18 @@
+.items{
+    background-color: firebrick;
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.items a{
+    margin-right: 25px;
+    font-size: 20px;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+
+
+.active{
+    background-color: slategray;
+}
